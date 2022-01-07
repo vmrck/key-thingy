@@ -15,6 +15,9 @@ map O scrollToRight
 map a previousTab
 map t nextTab
 
+map A firstTab
+map T lastTab
+
 map r goBack
 map s goForward
 
