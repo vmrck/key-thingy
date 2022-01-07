@@ -1,0 +1,28 @@
+unmapAll
+
+map <space> LinkHints.activate
+
+map n scrollLeft
+map e scrollDown
+map i scrollUp
+map o scrollRight
+
+map N scrollToLeft
+map E scrollToTop
+map I scrollToBottom
+map O scrollToRight
+
+map a previousTab
+map t nextTab
+
+map r goBack
+map s goForward
+
+map ' createTab
+
+map q removeTab
+
+map w enterFindMode
+
+map d performBackwardsFind
+map h performFind
