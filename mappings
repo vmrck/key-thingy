@@ -1,6 +1,7 @@
 unmapAll
 
 map <space> LinkHints.activate
+map <s-space> LinkHints.activateOpenInNewTab
 
 map n scrollLeft
 map e scrollDown
